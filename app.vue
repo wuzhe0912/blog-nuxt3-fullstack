@@ -1,6 +1,5 @@
 <template>
-  <div>
-    Hello Nuxt.js 3
-    <NuxtWelcome />
+  <div class="text-3xl font-bold underline">
+    Hello world!
   </div>
 </template>
